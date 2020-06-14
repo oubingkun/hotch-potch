@@ -152,6 +152,11 @@ for ix in Sequence(im):
 """
 图像序列
 """
+import os
+from PIL import Image,ImageEnhance
+sources_uinx = os.path.join("/home/oubingkun/图片/pil_img/","lena.jpg")
+sources_ugif = os.path.join("/home/oubingkun/图片/pil_img/","qxz.gif")
+im  = Image.open(sources_uinx)
 im_gif = Image.open(sources_ugif)
 im_gif.seek(1)
 try:

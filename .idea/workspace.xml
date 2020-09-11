@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d878e510-7cd4-490f-ab76-7ad65a002a43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithm/binary_tree1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-socket/socket_demo1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-socket/socket_demo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/binary_tree2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/atx-test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/atx-test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/demo1.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,14 +43,11 @@
       <recent name="C:\Users\Administrator\Desktop\atx-test\PIL" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.PIL_2">
+  <component name="RunManager">
     <configuration name="PIL_1" type="PythonConfigurationType" factoryName="Python" editBeforeRun="true" singleton="false" temporary="true" nameIsGenerated="true">
       <module name="atx-test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PIL" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -64,30 +62,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PIL_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="atx-test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PIL" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PIL/PIL_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.PIL_2" />
         <item itemvalue="Python.PIL_1" />
       </list>
     </recent_temporary>
@@ -131,101 +107,72 @@
       <option name="project" value="LOCAL" />
       <updated>1592123072520</updated>
     </task>
-    <task id="LOCAL-00005" summary="Add:fix some PIL">
-      <created>1592123215073</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1592123215073</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Add:pic_filter过滤器--像素取反">
-      <created>1594133440069</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1594133440069</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add:create first pil_demo PIL_1.py" />
     <MESSAGE value="Add:some PIL kownledage" />
-    <MESSAGE value="Add:fix some PIL" />
-    <MESSAGE value="Add:pic_filter过滤器--像素取反" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add:pic_filter过滤器--像素取反" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add:some PIL kownledage" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2464" y="161" width="658" height="819" key="#PIL_1" timestamp="1592121524739">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="544" y="155" width="658" height="819" key="#PIL_1" timestamp="1599802801553">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="544" y="155" key="#PIL_1/0.0.1920.1040@0.0.1920.1040" timestamp="1591950221256" />
+    <state x="544" y="155" key="#PIL_1/0.0.1920.1040@0.0.1920.1040" timestamp="1599802801553" />
     <state x="2464" y="161" width="658" height="819" key="#PIL_1/59.27.1861.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592121524739" />
     <state x="460" y="216" width="800" height="677" key="#Updates" timestamp="1592021787728">
       <screen x="59" y="27" width="1861" height="1053" />
     </state>
     <state x="460" y="216" width="800" height="677" key="#Updates/59.27.1861.1053/1920.0.1920.1080@59.27.1861.1053" timestamp="1592021787728" />
-    <state x="695" y="321" width="600" height="406" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592232461413">
-      <screen x="59" y="27" width="1861" height="1053" />
-    </state>
-    <state x="695" y="321" width="600" height="406" key="#com.intellij.fileTypes.FileTypeChooser/59.27.1861.1053@59.27.1861.1053" timestamp="1592232461413" />
-    <state x="142" y="50" width="1216" height="896" key="CommitChangelistDialog2" timestamp="1594133439844">
-      <screen x="59" y="27" width="1861" height="1053" />
+    <state x="2360" y="76" width="1216" height="896" key="CommitChangelistDialog2" timestamp="1592123072334">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="574" y="112" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591867863021" />
-    <state x="2360" y="76" width="1216" height="896" key="CommitChangelistDialog2/59.27.1861.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592123214907" />
-    <state x="142" y="50" key="CommitChangelistDialog2/59.27.1861.1053/1920.0.1920.1080@59.27.1861.1053" timestamp="1594133439844" />
+    <state x="2360" y="76" width="1216" height="896" key="CommitChangelistDialog2/59.27.1861.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592123072334" />
     <state x="74" y="279" width="1201" height="510" key="DiffContextDialog" timestamp="1591867313942">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="74" y="279" width="1201" height="510" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591867313942" />
-    <state width="1198" height="217" key="GridCell.Tab.0.bottom" timestamp="1598883936307">
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1592038287400">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="725" height="178" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591950221512" />
-    <state width="1198" height="217" key="GridCell.Tab.0.bottom/59.27.1861.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598883936307" />
-    <state width="1198" height="217" key="GridCell.Tab.0.bottom/59.27.1861.1053/1920.0.1920.1080@59.27.1861.1053" timestamp="1597850544392" />
-    <state width="1198" height="217" key="GridCell.Tab.0.center" timestamp="1598883936307">
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom/59.27.1861.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592038287400" />
+    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1592038287400">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="725" height="178" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591950221512" />
-    <state width="1198" height="217" key="GridCell.Tab.0.center/59.27.1861.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598883936307" />
-    <state width="1198" height="217" key="GridCell.Tab.0.center/59.27.1861.1053/1920.0.1920.1080@59.27.1861.1053" timestamp="1597850544392" />
-    <state width="1198" height="217" key="GridCell.Tab.0.left" timestamp="1598883936307">
+    <state width="1493" height="211" key="GridCell.Tab.0.center/59.27.1861.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592038287400" />
+    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1592038287400">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="725" height="178" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591950221512" />
-    <state width="1198" height="217" key="GridCell.Tab.0.left/59.27.1861.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598883936307" />
-    <state width="1198" height="217" key="GridCell.Tab.0.left/59.27.1861.1053/1920.0.1920.1080@59.27.1861.1053" timestamp="1597850544392" />
-    <state width="1198" height="217" key="GridCell.Tab.0.right" timestamp="1598883936307">
+    <state width="1493" height="211" key="GridCell.Tab.0.left/59.27.1861.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592038287400" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1592038287400">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="725" height="178" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591950221512" />
-    <state width="1198" height="217" key="GridCell.Tab.0.right/59.27.1861.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598883936307" />
-    <state width="1198" height="217" key="GridCell.Tab.0.right/59.27.1861.1053/1920.0.1920.1080@59.27.1861.1053" timestamp="1597850544392" />
-    <state x="396" y="238" key="SettingsEditor" timestamp="1592232751384">
-      <screen x="59" y="27" width="1861" height="1053" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right/59.27.1861.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592038287400" />
+    <state x="2268" y="216" key="SettingsEditor" timestamp="1592111447599">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="348" y="208" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591927154198" />
     <state x="2268" y="216" key="SettingsEditor/59.27.1861.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592111447599" />
     <state x="396" y="238" key="SettingsEditor/59.27.1861.1053/1920.0.1920.1080@59.27.1861.1053" timestamp="1592021724193" />
-    <state x="396" y="238" key="SettingsEditor/59.27.1861.1053@59.27.1861.1053" timestamp="1592232751384" />
-    <state x="239" y="293" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1594133466390">
-      <screen x="59" y="27" width="1861" height="1053" />
-    </state>
-    <state x="637" y="275" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591867875270" />
-    <state x="2557" y="286" width="800" height="531" key="Vcs.Push.Dialog.v2/59.27.1861.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592123241469" />
-    <state x="239" y="293" key="Vcs.Push.Dialog.v2/59.27.1861.1053/1920.0.1920.1080@59.27.1861.1053" timestamp="1594133466390" />
-    <state x="531" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1599058905173">
-      <screen x="59" y="27" width="1861" height="1053" />
-    </state>
-    <state x="2407" y="363" key="com.intellij.ide.util.TipDialog/59.27.1861.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597849164757" />
-    <state x="531" y="381" key="com.intellij.ide.util.TipDialog/59.27.1861.1053/1920.0.1920.1080@59.27.1861.1053" timestamp="1599058905173" />
-    <state x="531" y="381" key="com.intellij.ide.util.TipDialog/59.27.1861.1053@59.27.1861.1053" timestamp="1592232388719" />
-    <state x="2646" y="455" width="457" height="168" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592123223299">
+    <state x="2557" y="286" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1592123094930">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2646" y="455" width="457" height="168" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/59.27.1861.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592123223299" />
+    <state x="637" y="275" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591867875270" />
+    <state x="2557" y="286" width="800" height="531" key="Vcs.Push.Dialog.v2/59.27.1861.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592123094930" />
+    <state x="531" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1592021572944">
+      <screen x="59" y="27" width="1861" height="1053" />
+    </state>
+    <state x="531" y="381" key="com.intellij.ide.util.TipDialog/59.27.1861.1053/1920.0.1920.1080@59.27.1861.1053" timestamp="1592021572944" />
+    <state x="2646" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592123079070">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2646" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/59.27.1861.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592123079070" />
     <state x="789" y="435" key="git4idea.ui.GitStashDialog" timestamp="1591867337335">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

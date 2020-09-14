@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d878e510-7cd4-490f-ab76-7ad65a002a43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithm/binary_tree2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/atx-test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/atx-test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/queue_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/queue_03.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/demo1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/strings_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/strings_01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +47,9 @@
       <module name="atx-test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PIL" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -107,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592123072520</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add:some PIL kownledage">
+      <created>1599803361220</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1599803361221</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -125,10 +134,10 @@
       <screen x="59" y="27" width="1861" height="1053" />
     </state>
     <state x="460" y="216" width="800" height="677" key="#Updates/59.27.1861.1053/1920.0.1920.1080@59.27.1861.1053" timestamp="1592021787728" />
-    <state x="2360" y="76" width="1216" height="896" key="CommitChangelistDialog2" timestamp="1592123072334">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="574" y="112" width="1216" height="896" key="CommitChangelistDialog2" timestamp="1599803358652">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="574" y="112" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591867863021" />
+    <state x="574" y="112" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1599803358652" />
     <state x="2360" y="76" width="1216" height="896" key="CommitChangelistDialog2/59.27.1861.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592123072334" />
     <state x="74" y="279" width="1201" height="510" key="DiffContextDialog" timestamp="1591867313942">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -169,13 +178,25 @@
       <screen x="59" y="27" width="1861" height="1053" />
     </state>
     <state x="531" y="381" key="com.intellij.ide.util.TipDialog/59.27.1861.1053/1920.0.1920.1080@59.27.1861.1053" timestamp="1592021572944" />
-    <state x="2646" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592123079070">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="726" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600044653201">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="726" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600044653200" />
     <state x="2646" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/59.27.1861.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592123079070" />
     <state x="789" y="435" key="git4idea.ui.GitStashDialog" timestamp="1591867337335">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="789" y="435" key="git4idea.ui.GitStashDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591867337335" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/algorithm/queue_02.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
